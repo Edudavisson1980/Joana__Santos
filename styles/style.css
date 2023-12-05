@@ -84,12 +84,7 @@ strong {
     font-weight: 400;
     font-size: 24px;
 }
-
-@media screen and (max-width: 768px ) {
-    .container {
-        display:block;
-        background: image 0;: none;
-    }
+   
 
 .apresentacao__links__link {
     /* background-color: #22D4FD; */
@@ -122,3 +117,9 @@ strong {
     font-size: 24px;
     font-weight: 400px; 
 }
+
+@media screen and (max-width: 768px ) {
+    .container {
+        display:block;
+        background: image 0;: none;
+    }
