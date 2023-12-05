@@ -85,6 +85,12 @@ strong {
     font-size: 24px;
 }
 
+@media screen and (max-width: 768px ) {
+    .container {
+        display:block;
+        background: image 0;: none;
+    }
+
 .apresentacao__links__link {
     /* background-color: #22D4FD; */
     display: flex;
